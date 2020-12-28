@@ -1,5 +1,5 @@
 # MovieRecommendationSytem
- Content Based  Memory recommendation sytem
+ Content Based  recommendation sytem
 
 # python libraries
 1.dataprocessing  
